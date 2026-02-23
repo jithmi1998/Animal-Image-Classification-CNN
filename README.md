@@ -19,4 +19,3 @@ https://www.kaggle.com/datasets/miadul/animal-image-classification-5-species?res
 - Jupyter Notebook
 - Trained Model (.h5)
 - Accuracy and Loss Graphs
-- dataset(zip)
